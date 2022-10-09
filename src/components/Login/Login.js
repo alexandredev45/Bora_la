@@ -13,7 +13,7 @@ function Login() {
                     <label>Senha:</label>
                     <input type="password" name="" id="" placeholder="Senha" />
 
-                    <button>Login</button>
+                    <button className='btn-login' >Login</button>
                 </form>
             </div>
         </div>
